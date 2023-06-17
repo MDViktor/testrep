@@ -22,4 +22,5 @@ And that is
 a simle of
  all code copy
 ```
-sample of color `#0969DA` fgg 
+sample of color `rgb(9, 105, 218)` fgg 
+sample of color `hsl(212, 92%, 45%)` fgg 
