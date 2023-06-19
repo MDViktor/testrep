@@ -27,3 +27,5 @@ sample of color `hsl(212, 92%, 45%)` fgg
 
 [pop this](https://github.com/MDViktor/testrepo#test-repo)
 
+relative link: [img](/testrepo/1.jpg)
+
