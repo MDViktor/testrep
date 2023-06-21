@@ -77,3 +77,5 @@ Remarks :
 [^1]: My reference.
 [^2]: To add line breaks within footline, prefix new lines with 2 spaces.
   This is a second line.
+
+comments example <!-- the hidden text-->
