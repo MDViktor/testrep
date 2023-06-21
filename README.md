@@ -75,5 +75,4 @@ For the  paragraph you need to leave clear strip
 
 Remarks :
 [^1]: My reference.
-[^2]: To add line breaks within footline, prefix new lines with 2 spaces.
-  This is a second line.
+[^2]: To add line breaks within footline, prefix new lines with 2 spaces.  This is a second line.
