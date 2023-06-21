@@ -55,6 +55,6 @@ nested lists:
       * three
 
 tasks list:
-- [] \(optional)some text 
+- [ ] \(optional)some text 
 - [x] task #1
-- [] task #2
+- [ ] task #2
