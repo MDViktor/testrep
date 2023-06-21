@@ -37,6 +37,11 @@ image viewer: ![1](2.png)
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+Remarks :
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
 lists:
 unordered
 - one
@@ -67,3 +72,8 @@ emojy sample :shipit: :goberserk:
 For the  paragraph you need to leave clear strip
 
  and it will be exist
+
+Remarks :
+[^1]: My reference.
+[^2]: To add line breaks within footline, prefix new lines with 2 spaces.
+  This is a second line.
