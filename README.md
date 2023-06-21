@@ -53,3 +53,8 @@ nested lists:
 1. one
     - two
       * three
+
+tasks list:
+- [] \(optional)some text 
+- [x] task #1
+- [] task #2
